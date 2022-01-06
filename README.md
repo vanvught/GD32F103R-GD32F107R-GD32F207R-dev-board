@@ -124,7 +124,7 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	</tr>
 </table>
 
-[Colour version](https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/header-2x13.html)
+[Colour version](https://htmlpreview.github.io/?https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/html/header-2x13.html)
 
 <table>
 <tr><th colspan="4">1x13 Header</th></tr>
@@ -191,7 +191,7 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	</tr>
 </table>
 
-[Colour version](https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/header-1x13.html)
+[Colour version](https://htmlpreview.github.io/?https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/html/header-1x13.html)
 
 <table>
 	<tr><th colspan="2">Boot UART</th></tr>
