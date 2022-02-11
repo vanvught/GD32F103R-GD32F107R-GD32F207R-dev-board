@@ -1,4 +1,4 @@
-See the latest here -> [https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-GD32F407R-dev-board](https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-GD32F407R-dev-board)
+See the latest here -> [https://github.com/vanvught/GD32FxxxR-dev-board](https://github.com/vanvught/GD32FxxxR-dev-board)
 
 [PayPal.Me Donate](https://paypal.me/AvanVught?locale.x=nl_NL)
 
