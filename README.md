@@ -1,3 +1,9 @@
+See the latest here -> [https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-GD32F407R-dev-board](https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-GD32F407R-dev-board)
+
+[PayPal.Me Donate](https://paypal.me/AvanVught?locale.x=nl_NL)
+
+-----------
+
 # GD32F103R GD32F107R GD32F207R development board
 
 This board can be used with the `GD32F103Rx` and the `GD32F107Rx` , `GD32F207Rx` (Ethernet) MCU's. 
@@ -20,15 +26,15 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td rowspan="2"></td>
 	</tr>
 	<tr>
-	<td rowspan="2">REMAP = 0</td>
+	<td rowspan="2">REMAP = 1</td>
 	<td style="background-color:#EE82EE">I2C0 SCA</td>
-	<td>PB7</td>
+	<td>PB9</td>
 	<td>3</td>
 	<td>4</td>
 	</tr>
 	<tr>
 	<td style="background-color:#EE82EE">I2C0 SCL</td>
-	<td>PB6</td>
+	<td>PB8</td>
 	<td>5</td>
 	<td>6</td>
 	<td colspan="2">GND</td>
@@ -319,6 +325,8 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 </tbody>
 </table>
 
+[Colour version](https://htmlpreview.github.io/?https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/html/header-1x4.html)
+
 ### GD32F107Rx GD32F207Rx (only)
 
 <table>
@@ -372,7 +380,5 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 </tr>		
 </tbody>
 </table>
-
-[PayPal.Me Donate](https://paypal.me/AvanVught?locale.x=nl_NL)
 
 ![](https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board/blob/main/GD32F103R-GD32F107R-GD32F207R-dev-board-dev-board.png)
